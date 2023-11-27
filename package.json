@@ -1,0 +1,15 @@
+{
+  "name": "frappecharts",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "frappe-charts": "^1.6.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
